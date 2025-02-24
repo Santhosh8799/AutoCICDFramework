@@ -18,6 +18,7 @@ import Santhosh.TestComponent.BaseTest;
 
 public class FrameWorkBuildTest extends BaseTest {
 	
+//Just added the comment to check whether CICD integration works 
 	String product="ADIDAS ORIGINAL";
 	//Tmmrw Try amazon Application 
 	@Test(dataProvider="hasdata",groups={"Purchasedataprovider"})
